@@ -13,7 +13,6 @@ The project's goal is to create a chatbot that can quickly summarise your pictur
 - It excels at advanced reasoning tasks, including code and math, classification and question answering, translation and multilingual proficiency, and natural language generation better than our previous state-of-the-art LLMs, including PaLM. It can accomplish these tasks because of the way it was built – bringing together compute-optimal scaling, an improved dataset mixture, and model architecture improvements.
 
 - Palm 2 is grounded in Google’s approach to building and deploying AI responsibly. All versions of PaLM 2 are evaluated rigorously for potential harms and biases, capabilities, and downstream uses in research and in-product applications. PaLM 2 is used in other state-of-the-art models, like Sec-PaLM. We continue to implement the latest versions of PaLM 2 in generative AI tools like the PaLM API and Bard.
-```
 
    
 ![Screenshot from 2023-12-14 11-54-08](https://github.com/VK-Ant/Prompt_Vision_Based_Chatbot_integrating_Streamlit/assets/75832198/7a239812-c593-47b6-9740-723c57f8fa72)
