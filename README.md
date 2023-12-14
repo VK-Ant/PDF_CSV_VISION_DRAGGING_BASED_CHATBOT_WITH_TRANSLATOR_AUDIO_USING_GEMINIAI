@@ -36,19 +36,15 @@ $ pip install -r requirements.txt
 
 ```
 
-### **3.Add your project folder to the.env folder you created (put your openai api key)**
+### **3. Add your project folder to the.env folder you created (put your Gemini api key)**
 
 '''bash
-GOOGLE_API_KEY = your Gemini api key
+GOOGLE_API_KEY = your Gemini API key
 '''
 
-### **4. Finally run the code**
+### **4. Finally, run the code**
 
 ```bash
-
-$ bash run.sh
-
-or
 
 $ streamlit run vision_prompt_chatbot.py
 
