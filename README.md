@@ -83,7 +83,7 @@ $ streamlit run vision_prompt_chatbot.py
 
 1. https://ai.google.dev/tutorials/python_quickstart#chat_conversations
 2. Streamlit, GoogleGemini library
-
+3. https://github.com/MuhammadMoinFaisal/LargeLanguageModelsProjects/tree/main
 
 
 ## **🤗Happy learning🤗**
