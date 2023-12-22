@@ -12,7 +12,7 @@ import google.generativeai as genai
 from streamlit_extras.add_vertical_space import add_vertical_space
 import PIL.Image
 
-# Import Translator from googletrans
+# Import Translator 
 from googletrans import Translator
 
 # Load environment variables
@@ -78,10 +78,8 @@ def user_input(user_question):
         else:
             st.write("Bot: ", message.content)
 
-# Dropdown for selecting processing type
 selected_option = st.selectbox("Select Processing Type", ["Multiple PDFs", "Vision", "Prompt"])
 
-# Function to clear session state
 def clear_session_state():
     st.session_state.conversation = None
     st.session_state.chatHistory = None
@@ -120,7 +118,7 @@ if selected_option == "Multiple PDFs":
     # Get the generated content for translation
     response = st.session_state.chatHistory[-1].content
 
-    # Translation step
+    # Translation
     dest_lang = st.selectbox("Select destination language", ["Hindi", "Tamil", "Telugu", "Punjabi", "German", "English", "French"])
     if dest_lang:
         language_codes = {
@@ -202,7 +200,6 @@ else:
     question = st.text_input("Ask a question:")
     submitted = st.button("Submit")
 
-    # Generate content on submission
     if submitted:
         model = genai.GenerativeModel(selected_model)
         response = model.generate_content(question)
