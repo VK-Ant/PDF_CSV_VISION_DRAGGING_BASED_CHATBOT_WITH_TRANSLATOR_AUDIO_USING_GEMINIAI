@@ -1,4 +1,4 @@
-# **Multiple PDF & Vision Based Chatbot Integrating Streamlit**
+# **ALL IN ONE VK CHATBOT: Prompt, Multiple PDF & Vision Based Chatbot Integrating Streamlit**
 
 ## ***This Google Gemini chatbot is based on the LLM PALM2 Model!***
 
@@ -14,7 +14,9 @@
 
 **The project's objective is to develop a chatbot with prompt-based responses, multiple pdf-based chatbots, and the ability to quickly summarise the contents of your images.**
 
-# **Multiple PDF Based Chatbot Integrating Streamlit**
+# **Phase1**
+
+## **Multiple PDF Based Chatbot Integrating Streamlit**
 
 ![Screenshot from 2023-12-16 12-05-37](https://github.com/VK-Ant/Vision_and_Multiple_PDF_Based_Chatbot_Using_Palm2/assets/75832198/32f69280-d9c6-44a1-8e82-afcf84552c11)
 
@@ -50,7 +52,9 @@ $ streamlit run multi_pdf_chatbot.py
 
 ```
 
-# **Prompt & Vision Based Chatbot Integrating Streamlit**
+# **Phase2**
+
+## **Prompt & Vision Based Chatbot Integrating Streamlit**
    
 ![Screenshot from 2023-12-14 11-54-08](https://github.com/VK-Ant/Prompt_Vision_Based_Chatbot_integrating_Streamlit/assets/75832198/7a239812-c593-47b6-9740-723c57f8fa72)
 
@@ -66,7 +70,23 @@ $ streamlit run vision_prompt_chatbot.py
 
 ```
 
+# **Phase3**
 
+## **All in one Chatbot Integrating Streamlit**
+
+![Screenshot from 2023-12-22 12-21-19](https://github.com/VK-Ant/ALL_IN_ONE_CHATBOT_USING_PALM2/assets/75832198/9407bdc0-ceda-4e82-8594-2a4b38d80ace)
+
+## **STEPS TO FOLLOW IN THIS PROJECT:**
+
+### **The ultimate three steps are identical.**
+
+### **4. Finally, run the code**
+
+```bash
+
+$ streamlit run all_in_one.py
+
+```
 
 ## **PROJECT DESCRIPTION:**
 
@@ -83,7 +103,6 @@ $ streamlit run vision_prompt_chatbot.py
 
 1. https://ai.google.dev/tutorials/python_quickstart#chat_conversations
 2. Streamlit, GoogleGemini library
-3. https://github.com/MuhammadMoinFaisal/LargeLanguageModelsProjects/tree/main
-
+3. https://github.com/MuhammadMoinFaisal/LargeLanguageModelsProjects
 
 ## **🤗Happy learning🤗**
