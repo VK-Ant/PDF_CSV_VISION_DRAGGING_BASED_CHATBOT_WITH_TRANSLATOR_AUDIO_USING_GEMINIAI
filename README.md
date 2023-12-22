@@ -1,4 +1,4 @@
-# **ALL IN ONE VK CHATBOT: Prompt, Multiple PDF & Vision Based Chatbot with translator Integrating Streamlit**
+# **ALL IN ONE VK CHATBOT: Prompt, Multi-PDF, Vision-Based Chatbot that Integrates with Streamlit and Translates (107 Languages)**
 
 ## ***This Google Gemini chatbot is based on the LLM PALM2 Model!***
 
