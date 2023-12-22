@@ -1,4 +1,4 @@
-# **ALL IN ONE VK CHATBOT: Prompt, Multiple PDF & Vision Based Chatbot Integrating Streamlit**
+# **ALL IN ONE VK CHATBOT: Prompt, Multiple PDF & Vision Based Chatbot with translator Integrating Streamlit**
 
 ## ***This Google Gemini chatbot is based on the LLM PALM2 Model!***
 
@@ -60,7 +60,7 @@ $ streamlit run multi_pdf_chatbot.py
 
 ## **STEPS TO FOLLOW IN THIS PROJECT:**
 
-### **The ultimate three steps are identical.**
+### **The ultimate(above) three steps are identical.**
 
 ### **4. Finally, run the code**
 
@@ -78,13 +78,35 @@ $ streamlit run vision_prompt_chatbot.py
 
 ## **STEPS TO FOLLOW IN THIS PROJECT:**
 
-### **The ultimate three steps are identical.**
+### **The ultimate(above) three steps are identical.**
 
 ### **4. Finally, run the code**
 
 ```bash
 
 $ streamlit run all_in_one.py
+
+or
+
+streamlit run all_in_one_v1.py
+
+```
+
+# **Phase4**
+
+## **All in one Chatbot With Translator**
+
+![Screenshot from 2023-12-22 14-19-38](https://github.com/VK-Ant/ALL_IN_ONE_CHATBOT_USING_PALM2/assets/75832198/78fd1bf6-4294-4393-9f37-f35a0291ab68)
+
+## **STEPS TO FOLLOW IN THIS PROJECT:**
+
+### **The ultimate(above) three steps are identical.**
+
+### **4. Finally, run the code**
+
+```bash
+
+$ streamlit run translate_v1.py
 
 ```
 
