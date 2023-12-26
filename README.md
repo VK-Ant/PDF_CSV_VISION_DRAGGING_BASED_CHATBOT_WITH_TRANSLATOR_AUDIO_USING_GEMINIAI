@@ -112,9 +112,11 @@ $ streamlit run translate_v1.py
 
 # **Final Phase**
 
-## **Audio based Chatbot With Translator**
+## **Audio-based Chatbot With Translator**
 
 ![Screenshot from 2023-12-26 10-39-08](https://github.com/VK-Ant/ALL_IN_ONE_CHATBOT_WITH_TRANSLATOR/assets/75832198/9b7b564f-8964-427e-a3fa-19b145d5784c)
+
+### ***if you wish to embed audio within a single chatbot. It's easy***
 
 ## **STEPS TO FOLLOW IN THIS PROJECT:**
 
