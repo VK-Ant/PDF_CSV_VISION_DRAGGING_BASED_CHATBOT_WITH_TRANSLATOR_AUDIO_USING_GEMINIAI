@@ -1,4 +1,4 @@
-# **ALL IN ONE VK CHATBOT: Prompt, Multi-PDF, Vision-Based Chatbot that Integrates with Streamlit & Translates (107 Languages)**
+# **ALL IN ONE VK CHATBOT: Audio, Prompt, Multi-PDF, Vision-Based Chatbot that Integrates with Streamlit & Translates (107 Languages)**
 
 ## ***This Google Gemini chatbot is based on the LLM PALM2 Model!***
 
@@ -110,6 +110,23 @@ $ streamlit run translate_v1.py
 
 ```
 
+# **Final Phase**
+
+## **Audio based Chatbot With Translator**
+
+![Screenshot from 2023-12-26 10-39-08](https://github.com/VK-Ant/ALL_IN_ONE_CHATBOT_WITH_TRANSLATOR/assets/75832198/9b7b564f-8964-427e-a3fa-19b145d5784c)
+
+## **STEPS TO FOLLOW IN THIS PROJECT:**
+
+### **The ultimate(above) three steps are identical.**
+
+### **4. Finally, run the code**
+
+```bash
+
+$ streamlit run audio_translate.py
+
+```
 ## **PROJECT DESCRIPTION:**
 
 1. Install requirement file.
