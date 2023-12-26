@@ -5,3 +5,6 @@ streamlit-extras
 altair<5
 googletrans==3.1.0a0
 google.generativeai
+speech_recognition
+soundfile
+sounddevice
