@@ -8,3 +8,4 @@ google.generativeai
 speech_recognition
 soundfile
 sounddevice
+langchain
