@@ -13,6 +13,7 @@ from gtts import gTTS
 import io
 from googletrans import Translator
 
+# create .env file in your project folder and put the palm2 API key GOOGLE_API_KEY = "GOOGLE_API_KE"
 # Load environment variables
 load_dotenv()
 GOOGLE_API_KEY = os.getenv('GOOGLE_API_KEY')
