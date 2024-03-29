@@ -1,3 +1,5 @@
+# pip install streamlit pillow streamlit_cropperjs google-generativeai streamlit_extras python-dotenv gTTS googletrans
+
 import streamlit as st
 from dotenv import load_dotenv
 import os
