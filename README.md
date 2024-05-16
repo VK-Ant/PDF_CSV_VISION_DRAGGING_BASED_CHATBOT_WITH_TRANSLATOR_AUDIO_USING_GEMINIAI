@@ -25,8 +25,7 @@
 ### **1. Git clone and change directory**
 
 ```bash
-$ git clone https://github.com/VK-Ant/Prompt_Vision_Based_Chatbot_integrating_Streamlit.git
-
+$ git clone https://github.com/VK-Ant/PDF_CSV_VISION_DRAGGING_BASED_CHATBOT_WITH_TRANSLATOR_AUDIO_USING_PALM-.git
 $ cd Prompt_Vision_Based_Chatbot_integrating_Streamlit
 ```
 
